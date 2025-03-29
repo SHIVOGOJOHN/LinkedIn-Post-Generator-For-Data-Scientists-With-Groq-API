@@ -3,7 +3,7 @@ import json
 
 
 class FewShotPosts:
-    def __init__(self, file_path= r"C:\Users\A\.vscode\.vscode\LinkedIn\preprocessed.json"):
+    def __init__(self, file_path= "preprocessed.json"):
         self.df = None
         self.unique_tags = None
         self.load_posts(file_path)

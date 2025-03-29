@@ -2,8 +2,8 @@ import json
 import re
 
 # Path to your JSON file
-input_path = r"C:\Users\A\.vscode\.vscode\LinkedIn\jsononline-net.json"  # Replace with your actual file path
-output_path = r'C:\Users\A\.vscode\.vscode\LinkedIn\reformatted_json.json'
+input_path = "jsononline-net.json"  
+output_path = 'reformatted_json.json'
 
 # Step 1: Read the raw data
 with open(input_path, 'r', encoding='utf-8') as file:

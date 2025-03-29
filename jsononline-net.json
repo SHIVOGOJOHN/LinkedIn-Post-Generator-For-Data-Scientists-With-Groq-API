@@ -162,14 +162,6 @@
   {
     "text": "In my experience it's impossible to learn anything math adjacent without exercises. For ML techniques, what helps me is little 'meta' problems like I'd ask myself how a particular function would be represented/learned by a method, or some stats analysis, something that wouldn't be prohibitively hard, but still would require me to think for a bit.\n\nAs the most basic example possible, I have been asking myself e.g. if I have Y that is completely explainable by speed, and my X is time and distance, what would different methods learn, e.g. how would a simple NN fit it? And I myself learned embarrassingly a lot, many obvious-looking things this way.\n\nEverything I ever watched or read without exercises slipped my mind immediately.",
     "engagements": 200
-  },
-  {
-    "text": "Young Thug tweets and deletes a message to Gunna:\n\n'Gunna stop acting like we friends on the internet, I don’t know u my guy.'",
-    "engagements": 175
-  },
-  {
-    "text": "Drake flew to Young Thug just 2 hours after he was released from jail and gave him $1,000,000",
-    "engagements": 14000
   }
   
 ]

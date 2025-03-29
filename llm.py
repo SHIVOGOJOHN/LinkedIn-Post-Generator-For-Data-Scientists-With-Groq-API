@@ -1,6 +1,5 @@
 from langchain_groq import ChatGroq
 import os
-import base64
 import streamlit as st
 
 # Directly assign API key here for testing
